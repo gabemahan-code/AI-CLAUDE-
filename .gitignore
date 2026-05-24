@@ -1,0 +1,29 @@
+# Example .gitignore file provided by GitHub
+# Add appropriate files and folders to ignore based on your project type
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# Build files
+/dist/
+/build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
